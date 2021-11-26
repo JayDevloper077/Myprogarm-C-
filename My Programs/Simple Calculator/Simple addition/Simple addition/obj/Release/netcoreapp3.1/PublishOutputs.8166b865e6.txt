@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\My Programs\Simple Calculator\Simple addition\Release\Simple addition.exe
+C:\Users\HP\Desktop\My Programs\Simple Calculator\Simple addition\Release\Simple addition.dll
+C:\Users\HP\Desktop\My Programs\Simple Calculator\Simple addition\Release\Simple addition.deps.json
+C:\Users\HP\Desktop\My Programs\Simple Calculator\Simple addition\Release\Simple addition.runtimeconfig.json
+C:\Users\HP\Desktop\My Programs\Simple Calculator\Simple addition\Release\Simple addition.pdb
